@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Fb1qgdqb/Tanvir-Mahmud-Fuad.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/7dLgZRLY/Screenshot-2025-02-05-040925.png" alt="Screenshot-2025-02-05-040925" border="0">
 </p>
 
 ## 🚀 About Me

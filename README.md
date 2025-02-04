@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/d4CWt9L5/Tanvir-Mahmud-Fuad.png" alt="Screenshot-2025-02-05-040925" border="0">
+  <img src="https://i.ibb.co.com/7NK3hVDb/Tanvir-Mahmud-Fuad.png" alt="Screenshot-2025-02-05-040925" border="0">
 </p>
 
 <!-- Name & Designation -->

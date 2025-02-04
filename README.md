@@ -56,13 +56,20 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ---
 
 <!-- GitHub Stats Section -->
-## GitHub Stats 📊  
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <div style="display: flex; justify-content: center;  align-items: center; gap: 30px;  margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tm-fuad05&show_icons=true&theme=radical" alt="Your GitHub Stats" style="max-width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tm-fuad05&layout=compact&theme=radical" alt="Top Languages" style="max-width: 400px;"/>
+  </div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tm-fuad05&show_icons=true&theme=radical)
+  <h3>🔥 GitHub Streak</h3>
+  <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 40px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tm-fuad05&theme=radical" alt="GitHub Streak" style="max-width: 400px;"/>
+  </div>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tm-fuad05&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tm-fuad05&theme=radical)
 
 ---
 

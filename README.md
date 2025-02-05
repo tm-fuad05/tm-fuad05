@@ -42,9 +42,9 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 <div>
   <img src="https://i.ibb.co.com/wNKq1qN5/20250205-183424.png" alt="20250205-183424" border="0" width="8%" />
   <img src="https://i.ibb.co.com/tMrNry7G/20250205-183124.png" alt="20250205-183124" border="0" width="8%" />
-  <img src="https://i.ibb.co.com/GQqyF9sh/20250205-183017.png" alt="20250205-183017" border="0" width="8%"/>
+ <img src="https://i.ibb.co.com/XrSFTDrt/20250205-183017.png" alt="20250205-183017" border="0" width="8%">
   <img src="https://i.ibb.co.com/k2jgkcMt/20250205-183255.png" alt="20250205-183255" border="0" width="8%" />
-  <img src="https://i.ibb.co.com/HD9s4pw7/20250205-182923.png" alt="20250205-182923" border="0" width="8%"/>
+  <img src="https://i.ibb.co.com/9mPQFWnx/20250205-182923.png" alt="20250205-182923" border="0" width="8%">
   <img src="https://i.ibb.co.com/SXhttSkF/20250205-183208.png" alt="20250205-183208" border="0" width="8%"/>
   <img src="https://i.ibb.co.com/3yyP5tSq/20250205-183828.png" alt="20250205-183828" border="0" width="8%"/>
   <img src="https://i.ibb.co.com/4RGcg2z1/20250205-183328.png" alt="20250205-183328" border="0" width="8%"/>

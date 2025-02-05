@@ -6,13 +6,13 @@
 # Hi, I'm Tanvir Mahmud Fuad 👋  
 ### MERN Stack Developer
 
----
+
 
 <!-- About Me Section -->
 ## About Me 🚀  
 I'm a passionate developer with a love for building scalable and user-friendly applications. I enjoy working on both frontend and backend technologies and am always eager to learn new tools and frameworks. When I'm not coding, you can find me exploring new tech trends or contributing to open-source projects.
 
----
+
 
 <!-- Current Activities Section -->
 ## Current Activities 🔭  
@@ -21,7 +21,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 - 📚 Learning about **DevOps** and **cloud computing**.  
 - 💡 Contributing to open-source projects.  
 
----
+
 
 <!-- Skills Section -->
 ## Skills 🛠️  
@@ -53,7 +53,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmfuad05)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tm_fuad05)
 
----
+
 
 <!-- GitHub Stats Section -->
 <div align="center">
@@ -71,7 +71,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 
 
----
+
 
 <!-- Footer -->
 <p align="center"> 

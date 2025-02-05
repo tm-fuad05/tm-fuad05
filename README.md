@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/7NK3hVDb/Tanvir-Mahmud-Fuad.png" alt="Screenshot-2025-02-05-040925" border="0">
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
           
 
 <!-- Name & Designation -->

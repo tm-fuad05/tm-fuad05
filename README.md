@@ -40,15 +40,15 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 --->
 
 <div>
-  <img src="https://i.ibb.co.com/wNKq1qN5/20250205-183424.png" alt="20250205-183424" border="0" width="8%" />
-  <img src="https://i.ibb.co.com/tMrNry7G/20250205-183124.png" alt="20250205-183124" border="0" width="8%" />
- <img src="https://i.ibb.co.com/XrSFTDrt/20250205-183017.png" alt="20250205-183017" border="0" width="8%">
-  <img src="https://i.ibb.co.com/k2jgkcMt/20250205-183255.png" alt="20250205-183255" border="0" width="8%" />
-  <img src="https://i.ibb.co.com/9mPQFWnx/20250205-182923.png" alt="20250205-182923" border="0" width="8%">
-  <img src="https://i.ibb.co.com/SXhttSkF/20250205-183208.png" alt="20250205-183208" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/3yyP5tSq/20250205-183828.png" alt="20250205-183828" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/4RGcg2z1/20250205-183328.png" alt="20250205-183328" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/ynWGPgQH/20250205-183049.png" alt="20250205-183049" border="0" width="8%"/>
+  <img src="https://i.ibb.co.com/wNKq1qN5/20250205-183424.png" alt="20250205-183424" border="0" width="6%" />
+  <img src="https://i.ibb.co.com/tMrNry7G/20250205-183124.png" alt="20250205-183124" border="0" width="6%" />
+ <img src="https://i.ibb.co.com/XrSFTDrt/20250205-183017.png" alt="20250205-183017" border="0" width="6%">
+  <img src="https://i.ibb.co.com/k2jgkcMt/20250205-183255.png" alt="20250205-183255" border="0" width="6%" />
+  <img src="https://i.ibb.co.com/9mPQFWnx/20250205-182923.png" alt="20250205-182923" border="0" width="6%">
+  <img src="https://i.ibb.co.com/SXhttSkF/20250205-183208.png" alt="20250205-183208" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/3yyP5tSq/20250205-183828.png" alt="20250205-183828" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/4RGcg2z1/20250205-183328.png" alt="20250205-183328" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/ynWGPgQH/20250205-183049.png" alt="20250205-183049" border="0" width="6%"/>
 </div>
 
 ### Backend  
@@ -58,16 +58,16 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 --->
 <div>
-  <img src="https://i.ibb.co.com/KncF1LQ/20250205-182832.png" alt="20250205-182832" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/C39HxZYD/20250205-182902.png" alt="20250205-182902" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/Y4vwMMXQ/20250205-182947.png" alt="20250205-182947" border="0" width="8%"/>
+  <img src="https://i.ibb.co.com/KncF1LQ/20250205-182832.png" alt="20250205-182832" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/C39HxZYD/20250205-182902.png" alt="20250205-182902" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/Y4vwMMXQ/20250205-182947.png" alt="20250205-182947" border="0" width="6%"/>
 </div>
 
 ### Authentication & Authorization 
 
 <div>
-  <img src="https://i.ibb.co.com/CsHS9Ntv/20250205-182759.png" alt="20250205-182759" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/ymbP61D2/20250205-182724.png" alt="20250205-182724" border="0" width="8%"/>
+  <img src="https://i.ibb.co.com/CsHS9Ntv/20250205-182759.png" alt="20250205-182759" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/ymbP61D2/20250205-182724.png" alt="20250205-182724" border="0" width="6%"/>
 </div>
 
 
@@ -79,8 +79,8 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---> 
 <div>
-  <img src="https://i.ibb.co.com/Xfmd52Qn/20250205-184305.png" alt="20250205-184305" border="0" width="8%"/>
-  <img src="https://i.ibb.co.com/fzdbdxV6/20250205-184407.png" alt="20250205-184407" border="0" width="8%"/>
+  <img src="https://i.ibb.co.com/Xfmd52Qn/20250205-184305.png" alt="20250205-184305" border="0" width="6%"/>
+  <img src="https://i.ibb.co.com/fzdbdxV6/20250205-184407.png" alt="20250205-184407" border="0" width="6%"/>
 </div>
 
 

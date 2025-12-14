@@ -67,7 +67,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 <div>
   <img width="50" height="50" alt="20250205_182759" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />  
-  <img width="50" height="50" alt="20250205_182724" src="" />  
+
 </div>
 
 
@@ -80,7 +80,6 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ---> 
 <div>
    <img width="50" height="50" alt="20250205_184305" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-   <img width="50" height="50" alt="20250205_184407" src="https://github.com/user-attachments/assets/1d9d20fe-bfc9-48b4-b218-fb83bd97d393" />
 </div>
 
 

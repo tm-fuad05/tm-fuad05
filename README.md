@@ -46,7 +46,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 <div>
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <img width="3264" height="3264" alt="20250205_182724" src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" />
+  <img width="50" height="50" alt="20250205_182724" src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" />
 </div>
 
 
@@ -65,8 +65,12 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Quote 🌟
-<img width="500" alt="Copilot_20251215_003652" src="https://github.com/user-attachments/assets/8725adc4-6654-4635-a0ec-32a57eacc537" />
+<h3 align="center">Quote of the Day 🌟</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You’re%20never%20behind%20—%20you%20only%20pick%20up%20from%20where%20you%20paused.&author=Tech%20Industry" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <!-- GitHub Stats Section -->
@@ -84,6 +88,13 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+---
 <!-- Footer -->
 <p align="center"> 
   <b>Thanks for visiting my profile! 😄</b>

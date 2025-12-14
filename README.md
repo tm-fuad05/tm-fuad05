@@ -57,7 +57,8 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 --->
-<div>
+<div><img width="512" height="512" alt="762634" src="https://github.com/user-attachments/assets/55d6e99d-87f0-4cd5-bdf5-863cc118236d" />
+
   <img src="https://i.ibb.co.com/KncF1LQ/20250205-182832.png" alt="20250205-182832" border="0" width="6%"/>
   <img src="https://i.ibb.co.com/C39HxZYD/20250205-182902.png" alt="20250205-182902" border="0" width="6%"/>
   <img src="https://i.ibb.co.com/Y4vwMMXQ/20250205-182947.png" alt="20250205-182947" border="0" width="6%"/>

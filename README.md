@@ -40,16 +40,17 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 --->
 
 <div>
-  <img src="https://i.ibb.co.com/wNKq1qN5/20250205-183424.png" alt="20250205-183424" border="0" width="6%" />
-  <img src="https://i.ibb.co.com/tMrNry7G/20250205-183124.png" alt="20250205-183124" border="0" width="6%" />
- <img src="https://i.ibb.co.com/XrSFTDrt/20250205-183017.png" alt="20250205-183017" border="0" width="6%">
-  <img src="https://i.ibb.co.com/k2jgkcMt/20250205-183255.png" alt="20250205-183255" border="0" width="6%" />
-  <img src="https://i.ibb.co.com/9mPQFWnx/20250205-182923.png" alt="20250205-182923" border="0" width="6%">
-  <img src="https://i.ibb.co.com/SXhttSkF/20250205-183208.png" alt="20250205-183208" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/3yyP5tSq/20250205-183828.png" alt="20250205-183828" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/4RGcg2z1/20250205-183328.png" alt="20250205-183328" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/ynWGPgQH/20250205-183049.png" alt="20250205-183049" border="0" width="6%"/>
+  <img width="3264" height="3264" alt="20250205_183424" src="https://github.com/user-attachments/assets/5dd6e999-2d04-4b85-8a2a-ba39cd2faed1" />
+  <img width="3264" height="3264" alt="20250205_183124" src="https://github.com/user-attachments/assets/3b5e4740-195a-4cb5-95ba-638cb6b97f0c" />
+  <img width="3264" height="3264" alt="20250205_183255" src="https://github.com/user-attachments/assets/d2dfa2f2-528d-4f68-92ef-d3e8efd6ae46" />
+  <img width="3264" height="3264" alt="20250205_183328" src="https://github.com/user-attachments/assets/be3489d1-f33c-4c76-883c-ea65b0feeac0" />
+  <img width="3264" height="3264" alt="20250205_183208" src="https://github.com/user-attachments/assets/bf34065d-4a2d-47f0-879d-80ee532ea00a" />
+  <img width="3264" height="3264" alt="20250205_183828" src="https://github.com/user-attachments/assets/df8b731f-bdd8-4d32-a150-7c2daea4ab66" />
+  <img width="3264" height="3264" alt="20250205_182923" src="https://github.com/user-attachments/assets/3d955ba7-6f10-46a5-b53c-6b2ae7b2cce1" />
+  <img width="3264" height="3264" alt="20250205_183017" src="https://github.com/user-attachments/assets/acdb93c0-7827-4877-931c-7081a969f3d3" />
+  <img width="3264" height="3264" alt="20250205_183049" src="https://github.com/user-attachments/assets/d06bea57-af3a-4af2-ac81-8188bb659d0b" />
 </div>
+
 
 ### Backend  
 <!---
@@ -57,7 +58,6 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 --->
-<div><img width="512" height="512" alt="762634" src="https://github.com/user-attachments/assets/55d6e99d-87f0-4cd5-bdf5-863cc118236d" />
 
   <img src="https://i.ibb.co.com/KncF1LQ/20250205-182832.png" alt="20250205-182832" border="0" width="6%"/>
   <img src="https://i.ibb.co.com/C39HxZYD/20250205-182902.png" alt="20250205-182902" border="0" width="6%"/>

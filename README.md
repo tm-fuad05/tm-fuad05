@@ -67,7 +67,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 <div>
   <img width="50" height="50" alt="20250205_182759" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />  
-  <img width="50" height="50" alt="20250205_182759" src="https://www.streamlinehq.com/icons/download/jwt-icon--31103" />  
+  <img width="50" height="50" alt="20250205_182759" src="https://github.com/user-attachments/assets/4fed75a3-2a2e-470a-94f5-8d6d12b1184f" />  
 
 </div>
 

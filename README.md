@@ -10,9 +10,9 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </div>
 
+<!-- Coding GIF -->
+  <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-
- <img align="right" style="margin-bottom: 10px;" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
  
 
 <!-- About Me Section -->

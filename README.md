@@ -58,17 +58,17 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 --->
-
-  <img src="https://i.ibb.co.com/KncF1LQ/20250205-182832.png" alt="20250205-182832" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/C39HxZYD/20250205-182902.png" alt="20250205-182902" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/Y4vwMMXQ/20250205-182947.png" alt="20250205-182947" border="0" width="6%"/>
+<div>
+  <img width="50" height="50" alt="20250205_182832" src="https://github.com/user-attachments/assets/81bbbd24-03a0-462f-92e9-bdda267266fa" />
+  <img width="50" height="50" alt="20250205_182902" src="https://github.com/user-attachments/assets/6e5bed47-719c-4b72-8334-580f39046b6a" />
+  <img width="50" height="50" alt="20250205_182947" src="https://github.com/user-attachments/assets/46e99a06-4e5f-4a78-a6ea-200101d84554" />
 </div>
 
 ### Authentication & Authorization 
 
 <div>
-  <img src="https://i.ibb.co.com/CsHS9Ntv/20250205-182759.png" alt="20250205-182759" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/ymbP61D2/20250205-182724.png" alt="20250205-182724" border="0" width="6%"/>
+  <img width="50" height="50" alt="20250205_182759" src="https://github.com/user-attachments/assets/f5be2a2b-983a-402f-b330-b2a53d786fe9" />  
+  <img width="50" height="50" alt="20250205_182724" src="https://github.com/user-attachments/assets/f2748924-d7d2-4146-9663-c335adfa07a5" />  
 </div>
 
 
@@ -80,8 +80,8 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---> 
 <div>
-  <img src="https://i.ibb.co.com/Xfmd52Qn/20250205-184305.png" alt="20250205-184305" border="0" width="6%"/>
-  <img src="https://i.ibb.co.com/fzdbdxV6/20250205-184407.png" alt="20250205-184407" border="0" width="6%"/>
+   <img width="50" height="50" alt="20250205_184305" src="https://github.com/user-attachments/assets/6a41805e-5f27-41c4-a6ef-ac713570a81e" />
+   <img width="50" height="50" alt="20250205_184407" src="https://github.com/user-attachments/assets/1d9d20fe-bfc9-48b4-b218-fb83bd97d393" />
 </div>
 
 

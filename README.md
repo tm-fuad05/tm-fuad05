@@ -60,7 +60,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 --->
 <div>
   <img width="50" height="50" alt="20250205_182832" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-  <img width="50" height="50" alt="20250205_182902" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+  <img width="50" height="50" alt="20250205_182902" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
   <img width="50" height="50" alt="20250205_182947" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 </div>
 

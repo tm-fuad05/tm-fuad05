@@ -5,14 +5,14 @@
 <!-- Name & Designation -->
  <div align="center">
      <h1>Hi, I'm Tanvir Mahmud Fuad 👋</h1>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer;MERN+Stack+Specialist" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=600&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer;MERN+Stack+Specialist" />
    <p><strong>Problem Solver • Modern UI Enthusiast • Performance-Focused Developer</strong></p>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </div>
 
 
 
- <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+ <img align="right" style="margin-bottom: 10px;" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
  
 
 <!-- About Me Section -->

@@ -1,13 +1,16 @@
-<p align="center">
+<div align="center">
   <img src="https://i.ibb.co.com/7NK3hVDb/Tanvir-Mahmud-Fuad.png" alt="Screenshot-2025-02-05-040925" border="0" width="100%">
 </p>
 
 
 <!-- Name & Designation -->
  <div align="center">
-   <h1>Hi, I'm Tanvir Mahmud Fuad 👋 </h1> 
-   <h4>MERN Stack Developer</h4>
+     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Tanvir+Mahmud+Fuad!;MERN+Stack+Developer!;Always+Learning!" /></h1>
+   <h3>Tanvir Mahmud Fuad | MERN Stack Developer</h3>
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </div>
+
+ <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
  
 
 

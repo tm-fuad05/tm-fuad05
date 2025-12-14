@@ -40,15 +40,15 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 --->
 
 <div>
-  <img width="50" height="50" alt="20250205_183424" src="https://github.com/user-attachments/assets/5dd6e999-2d04-4b85-8a2a-ba39cd2faed1" />
-  <img width="50" height="50" alt="20250205_183124" src="https://github.com/user-attachments/assets/3b5e4740-195a-4cb5-95ba-638cb6b97f0c" />
-  <img width="50" height="50" alt="20250205_183255" src="https://github.com/user-attachments/assets/d2dfa2f2-528d-4f68-92ef-d3e8efd6ae46" />
-  <img width="50" height="50" alt="20250205_183328" src="https://github.com/user-attachments/assets/be3489d1-f33c-4c76-883c-ea65b0feeac0" />
-  <img width="50" height="50" alt="20250205_183208" src="https://github.com/user-attachments/assets/bf34065d-4a2d-47f0-879d-80ee532ea00a" />
-  <img width="50" height="50" alt="20250205_183828" src="https://github.com/user-attachments/assets/df8b731f-bdd8-4d32-a150-7c2daea4ab66" />
-  <img width="50" height="50" alt="20250205_182923" src="https://github.com/user-attachments/assets/3d955ba7-6f10-46a5-b53c-6b2ae7b2cce1" />
-  <img width="50" height="50" alt="20250205_183017" src="https://github.com/user-attachments/assets/acdb93c0-7827-4877-931c-7081a969f3d3" />
-  <img width="50" height="50" alt="20250205_183049" src="https://github.com/user-attachments/assets/d06bea57-af3a-4af2-ac81-8188bb659d0b" />
+  <img width="50" height="50" alt="20250205_183424" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+  <img width="50" height="50" alt="20250205_183124" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" />
+  <img width="50" height="50" alt="20250205_183255" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+  <img width="50" height="50" alt="20250205_183328" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+  <img width="50" height="50" alt="20250205_183208" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+  <img width="50" height="50" alt="20250205_183828" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img width="50" height="50" alt="20250205_182923" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />
+  <img width="50" height="50" alt="20250205_183017" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
+  <img width="50" height="50" alt="20250205_183049" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />
 </div>
 
 
@@ -59,16 +59,16 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 --->
 <div>
-  <img width="50" height="50" alt="20250205_182832" src="https://github.com/user-attachments/assets/81bbbd24-03a0-462f-92e9-bdda267266fa" />
-  <img width="50" height="50" alt="20250205_182902" src="https://github.com/user-attachments/assets/6e5bed47-719c-4b72-8334-580f39046b6a" />
-  <img width="50" height="50" alt="20250205_182947" src="https://github.com/user-attachments/assets/46e99a06-4e5f-4a78-a6ea-200101d84554" />
+  <img width="50" height="50" alt="20250205_182832" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+  <img width="50" height="50" alt="20250205_182902" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+  <img width="50" height="50" alt="20250205_182947" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 </div>
 
 ### Authentication & Authorization 
 
 <div>
-  <img width="50" height="50" alt="20250205_182759" src="https://github.com/user-attachments/assets/f5be2a2b-983a-402f-b330-b2a53d786fe9" />  
-  <img width="50" height="50" alt="20250205_182724" src="https://github.com/user-attachments/assets/f2748924-d7d2-4146-9663-c335adfa07a5" />  
+  <img width="50" height="50" alt="20250205_182759" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />  
+  <img width="50" height="50" alt="20250205_182724" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" />  
 </div>
 
 
@@ -80,8 +80,8 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---> 
 <div>
-   <img width="50" height="50" alt="20250205_184305" src="https://github.com/user-attachments/assets/6a41805e-5f27-41c4-a6ef-ac713570a81e" />
-   <img width="50" height="50" alt="20250205_184407" src="https://github.com/user-attachments/assets/1d9d20fe-bfc9-48b4-b218-fb83bd97d393" />
+   <img width="50" height="50" alt="20250205_184305" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+   <img width="50" height="50" alt="20250205_184407" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />
 </div>
 
 

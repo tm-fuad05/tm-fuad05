@@ -40,15 +40,15 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 --->
 
 <div>
-  <img width="3264" height="3264" alt="20250205_183424" src="https://github.com/user-attachments/assets/5dd6e999-2d04-4b85-8a2a-ba39cd2faed1" />
-  <img width="3264" height="3264" alt="20250205_183124" src="https://github.com/user-attachments/assets/3b5e4740-195a-4cb5-95ba-638cb6b97f0c" />
-  <img width="3264" height="3264" alt="20250205_183255" src="https://github.com/user-attachments/assets/d2dfa2f2-528d-4f68-92ef-d3e8efd6ae46" />
-  <img width="3264" height="3264" alt="20250205_183328" src="https://github.com/user-attachments/assets/be3489d1-f33c-4c76-883c-ea65b0feeac0" />
-  <img width="3264" height="3264" alt="20250205_183208" src="https://github.com/user-attachments/assets/bf34065d-4a2d-47f0-879d-80ee532ea00a" />
-  <img width="3264" height="3264" alt="20250205_183828" src="https://github.com/user-attachments/assets/df8b731f-bdd8-4d32-a150-7c2daea4ab66" />
-  <img width="3264" height="3264" alt="20250205_182923" src="https://github.com/user-attachments/assets/3d955ba7-6f10-46a5-b53c-6b2ae7b2cce1" />
-  <img width="3264" height="3264" alt="20250205_183017" src="https://github.com/user-attachments/assets/acdb93c0-7827-4877-931c-7081a969f3d3" />
-  <img width="3264" height="3264" alt="20250205_183049" src="https://github.com/user-attachments/assets/d06bea57-af3a-4af2-ac81-8188bb659d0b" />
+  <img width="50" height="50" alt="20250205_183424" src="https://github.com/user-attachments/assets/5dd6e999-2d04-4b85-8a2a-ba39cd2faed1" />
+  <img width="50" height="50" alt="20250205_183124" src="https://github.com/user-attachments/assets/3b5e4740-195a-4cb5-95ba-638cb6b97f0c" />
+  <img width="50" height="50" alt="20250205_183255" src="https://github.com/user-attachments/assets/d2dfa2f2-528d-4f68-92ef-d3e8efd6ae46" />
+  <img width="50" height="50" alt="20250205_183328" src="https://github.com/user-attachments/assets/be3489d1-f33c-4c76-883c-ea65b0feeac0" />
+  <img width="50" height="50" alt="20250205_183208" src="https://github.com/user-attachments/assets/bf34065d-4a2d-47f0-879d-80ee532ea00a" />
+  <img width="50" height="50" alt="20250205_183828" src="https://github.com/user-attachments/assets/df8b731f-bdd8-4d32-a150-7c2daea4ab66" />
+  <img width="50" height="50" alt="20250205_182923" src="https://github.com/user-attachments/assets/3d955ba7-6f10-46a5-b53c-6b2ae7b2cce1" />
+  <img width="50" height="50" alt="20250205_183017" src="https://github.com/user-attachments/assets/acdb93c0-7827-4877-931c-7081a969f3d3" />
+  <img width="50" height="50" alt="20250205_183049" src="https://github.com/user-attachments/assets/d06bea57-af3a-4af2-ac81-8188bb659d0b" />
 </div>
 
 

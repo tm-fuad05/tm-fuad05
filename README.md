@@ -47,7 +47,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
   <img width="50" height="50" alt="20250205_183208" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
   <img width="50" height="50" alt="20250205_183828" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   <img width="50" height="50" alt="20250205_182923" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />
-  <img width="50" height="50" alt="20250205_183017" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" />
+  <img width="50" height="50" alt="20250205_183017" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" />
   <img width="50" height="50" alt="20250205_183049" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />
 </div>
 

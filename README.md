@@ -40,11 +40,11 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 --->
 
 <div>
-  <img width="50" height="50" alt="20250205_183424" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
-  <img width="50" height="50" alt="20250205_183124" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" />
-  <img width="50" height="50" alt="20250205_183255" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
-  <img width="50" height="50" alt="20250205_183328" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-  <img width="50" height="50" alt="20250205_183208" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img width="50" height="50" alt="20250205_183424" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+  <img width="50" height="50" alt="20250205_183124" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
+  <img width="50" height="50" alt="20250205_183255" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
+  <img width="50" height="50" alt="20250205_183328" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
+  <img width="50" height="50" alt="20250205_183208" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
   <img width="50" height="50" alt="20250205_183828" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />
   <img width="50" height="50" alt="20250205_182923" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
   <img width="50" height="50" alt="20250205_183017" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" />

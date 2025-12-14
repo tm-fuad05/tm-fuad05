@@ -44,8 +44,11 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 ### 🔹 Authentication & Authorization
 
+<div>
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="48"/>
+  <img width="3264" height="3264" alt="20250205_182724" src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" />
+</div>
+
 
 
 ### 🔹 Tools

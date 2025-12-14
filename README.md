@@ -1,4 +1,5 @@
-
+<!--Hero Section -->
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/296fd8ea-0c6f-45cc-a033-b11940462a3b" />
 
 
 <!-- Name & Designation -->
@@ -76,15 +77,31 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 <!-- GitHub Stats Section -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <div style="display: flex; justify-content: center;  align-items: center; gap: 30px;  margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tm-fuad05&show_icons=true&theme=radical" alt="Your GitHub Stats" style="max-width: 400px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tm-fuad05&layout=compact&theme=radical" alt="Top Languages" style="max-width: 400px;"/>
-  </div>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tm-fuad05&show_icons=true&theme=radical&hide_border=true&border_radius=16&icon_color=58a6ff"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tm-fuad05&layout=compact&theme=radical&hide_border=true&border_radius=16"
+    height="180"
+  />
+</div>
+
+
+
+
 
   <h3>🔥 GitHub Streak</h3>
-  <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 40px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tm-fuad05&theme=radical" alt="GitHub Streak" style="max-width: 400px;"/>
-  </div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.demolab.com/?user=tm-fuad05&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
+
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

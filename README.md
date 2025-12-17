@@ -11,7 +11,7 @@
  </div>
 
 <!-- Coding GIF -->
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ3eWJ1aWJtOTc3OWFrYzdmODhzbmNiZG90YW43bmlkeW5oeWl4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SmW4T5YKJVnYikHVKJ/giphy.gif">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
  
 

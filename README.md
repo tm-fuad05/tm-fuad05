@@ -87,9 +87,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
     height="180"
   />
 </div> -->
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=tm-fuad05&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</p>
+
 
 
 
@@ -97,11 +95,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
   <h3>🔥 GitHub Streak</h3>
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.demolab.com/?user=tm-fuad05&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-    height="180"
-  />
+  <img src="https://yourinsights.vercel.app/api/insight?username=tm-fuad05&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 

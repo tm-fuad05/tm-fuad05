@@ -75,7 +75,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 
 <!-- GitHub Stats Section -->
-<div align="center">
+<!-- <div align="center">
   <h3>📊 GitHub Stats</h3>
 <div align="center">
   <img
@@ -86,7 +86,10 @@ I'm a passionate developer with a love for building scalable and user-friendly a
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tm-fuad05&layout=compact&theme=radical&hide_border=true&border_radius=16"
     height="180"
   />
-</div>
+</div> -->
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=tm-fuad05&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 
 

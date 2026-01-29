@@ -33,29 +33,23 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 <!-- Skills Section -->
 ## 🛠️ Tech Stack & Skills
 
-### 🔹 Frontend
-
+### 🔹 Frontend & State Management
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" />
 
-
-### 🔹 Backend
-
+### 🔹 Backend & Validation
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
+  <img src="https://skillicons.dev/icons?i=zod" alt="Zod" />
 
 ### 🔹 Authentication & Authorization
-
 <div>
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img width="50" height="50" alt="20250205_182724" src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" />
+  <img src="https://skillicons.dev/icons?i=firebase,nextauth" />
+  <img src="https://skillicons.dev/icons?i=clerk" alt="Clerk" />
+  <img width="50" height="50" alt="JWT" src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" />
 </div>
 
-
-
 ### 🔹 Tools
-
   <img src="https://skillicons.dev/icons?i=git,vscode" />
-
 
 
 <!-- Social Links Section -->

@@ -69,7 +69,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You’re%20never%20behind%20—%20you%20only%20pick%20up%20from%20where%20you%20paused.&author=Tech%20Industry" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 
 
@@ -86,27 +86,15 @@ I'm a passionate developer with a love for building scalable and user-friendly a
     height="180"
   />
 </div> -->
-
-
-
-
-
-
-  <h3>🔥 GitHub Streak</h3>
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=tm-fuad05&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</p>
-
-
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!---
 ## 🐍 Contribution Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
-
+--->
 ---
 <!-- Footer -->
 <p align="center"> 

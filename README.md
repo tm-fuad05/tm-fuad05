@@ -16,13 +16,13 @@
  
 
 <!-- About Me Section -->
-### About Me 🚀  
+### About Me   
 I'm a passionate developer with a love for building scalable and user-friendly applications. I enjoy working on both frontend and backend technologies and am always eager to learn new tools and frameworks. When I'm not coding, you can find me exploring new tech trends or contributing to open-source projects.
 
 
 
 <!-- Current Activities Section -->
-### Current Activities 🔭  
+### Current Activities   
 - 🌱 I’m currently exploring **Next.js** and **TypeScript**.  
 - 👨‍💻 Working on a **tourism website** project.  
 - 📚 Learning about **DevOps** and **cloud computing**.  
@@ -31,7 +31,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 
 <!-- Skills Section -->
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### 🔹 Frontend & Animation
 <p align="left">

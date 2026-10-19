@@ -10,10 +10,7 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </div>
 
-<!-- Coding GIF -->
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
- 
 
 <!-- About Me Section -->
 ### About Me   
@@ -22,43 +19,80 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 
 <!-- Current Activities Section -->
-### Current Activities   
-- I’m currently exploring **Next.js** and **TypeScript**.  
-- Working on a **tourism website** project.  
-- Learning about **DevOps** and **cloud computing**.  
-- Contributing to open-source projects.  
+### Learning Roadmap
+| Domain | Focus Topic |
+| :--- | :--- | 
+| **Architecture** | System Design & Scalability 
+| **DevOps** | Cloud Services & Nginx Config 
+| **Testing** | Unit, Integration & E2E Testing 
+
+<!-- Coding GIF -->
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 
 
 <!-- Skills Section -->
-## Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-### 🔹 Frontend & Animation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,framermotion" />
-</p>
+### Frontend & UI
+<table>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/html.png" width="38" height="38" alt="HTML" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/css.png" width="38" height="38" alt="CSS" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/javascript.png" width="38" height="38" alt="JavaScript" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/typescript.png" width="38" height="38" alt="TypeScript" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/react.png" width="38" height="38" alt="React" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/nextjs.png" width="38" height="38" alt="Next.js" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/tailwind.png" width="44" height="27" alt="Tailwind" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/motion.png" width="38" height="38" alt="Framer Motion" /></td>
+  </tr>
+</table>
 
-### 🔹 State, Data & Validation
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="45" height="45" alt="Zustand" />&nbsp;
-  <img src="https://tanstack.com/images/logos/logo-color-600.png" width="45" height="45" alt="TanStack Query" />&nbsp;
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" width="45" height="45" alt="Zod" />
-</p>
+### State, Data & Validation
+<table>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/zustand.svg" width="38" height="38" alt="Zustand" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/tanstack.png" width="38" height="38" alt="TanStack Query" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/zod.png" width="38" height="34" alt="Zod" /></td>
+  </tr>
+</table>
 
-### 🔹 Backend & Auth
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  <img src="https://images.seeklogo.com/logo-png/65/1/clerk-icon-logo-png_seeklogo-653484.png" width="45" height="45" alt="Clerk" />&nbsp;
-  <img src="https://github.com/user-attachments/assets/e92a3bfa-9fd0-4712-903a-e279740d1ec2" width="45" height="45" alt="JWT" />
-</p>
+### Backend & Database
+<table>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/node.png" width="38" height="38" alt="Node.js" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express" width="38" height="38" alt="Express" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/mongodb.png" width="38" height="38" alt="MongoDB" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/monogoose.webp" width="38" height="38" style="border-radius:8px; object-fit:cover" alt="Mongoose" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/postgresql.png" width="38" height="38" alt="PostgreSQL" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/prisma.png" width="38" height="38" alt="Prisma" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/firebase.png" width="38" height="38" alt="Firebase" /></td>
+  </tr>
+</table>
 
-### 🔹 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-</p>
+### Authentication
+<table>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/betterauth.png" width="38" height="38" alt="Better Auth" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/clerk.png" width="38" height="38" alt="Clerk" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/jwt.svg" width="38" height="38" alt="JWT" /></td>
+  </tr>
+</table>
+
+### Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/git.png" width="38" height="38" alt="Git" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/github.webp" width="38" height="38" alt="GitHub" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/vscode.png" width="38" height="38" alt="VS Code" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=vercel" width="38" height="38" alt="Vercel" /></td>
+  </tr>
+</table>
+
+
 
 <!-- Social Links Section -->
-## Let's Connect 🌐  
+## 🌐 Let's Connect  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tm-fuad05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmfuad05)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tm_fuad05)

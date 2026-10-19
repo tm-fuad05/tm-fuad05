@@ -12,11 +12,14 @@
 
 
 
+
+
 <!-- About Me Section -->
 ### About Me   
 I'm a passionate developer with a love for building scalable and user-friendly applications. I enjoy working on both frontend and backend technologies and am always eager to learn new tools and frameworks. When I'm not coding, you can find me exploring new tech trends or contributing to open-source projects.
 
-
+ <!-- Coding GIF -->
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <!-- Current Activities Section -->
 ### Learning Roadmap
@@ -26,8 +29,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 | **DevOps** | Cloud Services & Nginx Config 
 | **Testing** | Unit, Integration & E2E Testing 
 
-<!-- Coding GIF -->
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+
 
 
 

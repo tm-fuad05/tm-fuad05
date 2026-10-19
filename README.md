@@ -23,10 +23,10 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 
 <!-- Current Activities Section -->
 ### Current Activities   
-- 🌱 I’m currently exploring **Next.js** and **TypeScript**.  
-- 👨‍💻 Working on a **tourism website** project.  
-- 📚 Learning about **DevOps** and **cloud computing**.  
-- 💡 Contributing to open-source projects.  
+- I’m currently exploring **Next.js** and **TypeScript**.  
+- Working on a **tourism website** project.  
+- Learning about **DevOps** and **cloud computing**.  
+- Contributing to open-source projects.  
 
 
 

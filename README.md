@@ -1,5 +1,5 @@
 <!--Hero Section -->
-<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/296fd8ea-0c6f-45cc-a033-b11940462a3b" />
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://res.cloudinary.com/djdzuwgqr/image/upload/v1793999821/bq5sh9mgs47twm1qotm2.jpg" />
 
 
 <!-- Name & Designation -->

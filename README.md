@@ -39,8 +39,6 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ### Frontend & UI
 <table>
   <tr>
-    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/html.png" width="38" height="38" alt="HTML" /></td>
-    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/css.png" width="38" height="38" alt="CSS" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/javascript.png" width="38" height="38" alt="JavaScript" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/typescript.png" width="38" height="38" alt="TypeScript" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/react.png" width="38" height="38" alt="React" /></td>
@@ -85,6 +83,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 ### Tools & Platforms
 <table>
   <tr>
+   <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/postman.png" width="38" height="38" alt="VS Code" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/git.png" width="38" height="38" alt="Git" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/github.webp" width="38" height="38" alt="GitHub" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/vscode.png" width="38" height="38" alt="VS Code" /></td>

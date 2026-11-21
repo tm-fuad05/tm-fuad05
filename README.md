@@ -64,10 +64,11 @@ I'm a passionate developer with a love for building scalable and user-friendly a
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express" width="38" height="38" alt="Express" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/nestjs.webp" width="38" height="38" alt="NestJs" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/mongodb.png" width="38" height="38" alt="MongoDB" /></td>
-    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/monogoose.webp" width="38" height="38" style="border-radius:8px; object-fit:cover" alt="Mongoose" /></td>
+    <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/mongoose.webp" width="38" height="38" style="border-radius:8px; object-fit:cover" alt="Mongoose" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/postgresql.png" width="38" height="38" alt="PostgreSQL" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/prisma.png" width="38" height="38" alt="Prisma" /></td>
     <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/firebase.png" width="38" height="38" alt="Firebase" /></td>
+       <td align="center" width="60" height="60"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/supabase.svg" width="38" height="38" alt="Supabase" /></td>
   </tr>
 </table>
 

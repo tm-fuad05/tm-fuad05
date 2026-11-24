@@ -50,7 +50,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
   </tr>
   <tr>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/node.png" width="38" height="38" alt="Node.js" /></td>
-    <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/express.png" width="38" height="38" alt="Express" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=express" width="38" height="38" alt="Express" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/nestjs.webp" width="38" height="38" alt="NestJS" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/mongodb.png" width="38" height="38" alt="MongoDB" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/postgresql.png" width="38" height="38" alt="PostgreSQL" /></td>
@@ -68,7 +68,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/git.png" width="38" height="38" alt="Git" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/github.webp" width="38" height="38" alt="GitHub" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/vscode.png" width="38" height="38" alt="VS Code" /></td>
-    <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/vercel.png" width="38" height="38" alt="Vercel" /></td>
+    <td align="center" width="70" height="70"><img src="https://skillicons.dev/icons?i=vercel" width="38" height="38" alt="Vercel" /></td>
   </tr>
 </table>
 <!-- <table> 

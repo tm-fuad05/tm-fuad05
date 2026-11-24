@@ -160,7 +160,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 <h3 align="center">🐍 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tm-fuad05/tm-fuad05/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tm-fuad05/tm-fuad05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" />
 </p>
 
 <h3 align="center">Quote of the Day 🌟</h3>

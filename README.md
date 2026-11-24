@@ -156,13 +156,6 @@ I'm a passionate developer with a love for building scalable and user-friendly a
 </p>
 
 
-<!-- GitHub Contribution Snake Animation -->
-<h3 align="center">🐍 Contribution Activity</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tm-fuad05/tm-fuad05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" />
-</p>
-
 <h3 align="center">Quote of the Day 🌟</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You’re%20never%20behind%20—%20you%20only%20pick%20up%20from%20where%20you%20paused.&author=Tech%20Industry" />

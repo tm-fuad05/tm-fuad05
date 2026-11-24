@@ -61,7 +61,7 @@ I'm a passionate developer with a love for building scalable and user-friendly a
   </tr>
   <tr>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/supabase.svg" width="38" height="38" alt="Supabase" /></td>
-    <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/betterauth.webp" width="38" height="38" alt="Better Auth" /></td>
+    <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/betterauth.png" width="38" height="38" alt="Better Auth" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/clerk.png" width="38" height="38" alt="Clerk" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/jwt.svg" width="38" height="38" alt="JWT" /></td>
     <td align="center" width="70" height="70"><img src="https://raw.githubusercontent.com/tm-fuad05/tmfuad-portfolio/main/public/images/icons/postman.png" width="38" height="38" alt="Postman" /></td>
